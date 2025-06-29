@@ -1,1 +1,1 @@
-This is a Netflix clone.
+This is netflix clone.
